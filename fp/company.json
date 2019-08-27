@@ -34,7 +34,7 @@
        },
        {  
           "commenter":"Jehan Tremback",
-          "message":"@Schenectady asked in our chat: \"Hi frens. I just did the airdrop\nI am interested in learning more about the token supply. Are there any resources anyone can point me to? I did see that 7% inflation is expected via validator rewards\nIs the 7% inflation static? Every year supply goes up by 7%?\"\n\nMy answer: We will be using the Cosmos framework, likely with default settings, which would mean that inflation will target 7% per year. In this scenario, if 70% of the tokens are staked, the inflation will be 7%. If less than 70% tokens are staked it will be more, and if more than 70% staked, less.\n\nHowever, these plans may still change, and once the chain is live, it will be controlled by the validators selected by the token holders, not us directly.",
+          "message":"@Schenectady asked in our chat: \"Hi frens. I just did the airdrop\nI am interested in learning more about the token supply.",
           "replyList":[  
  
           ]
@@ -56,12 +56,12 @@
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@ari-bon-san I'm not 100% sure, but I think it is pretty easy in Mexico. We are working with someone to set up a network there now. @deborah-simpier will know more.",
+                "message":"@ari-bon-san I'm not 100% sure, but I think it is pretty easy in Mexico. ",
                 "replyList":null
              },
              {  
                 "commenter":"Deborah Simpier",
-                "message":"@jehan-tremback While there are some licensing requirements, we can help you through that process. Feel free to submit a proposal and we will be in touch regarding next steps.",
+                "message":"@jehan-tremback While there are some licensing requirements, we can help you through that process. ",
                 "replyList":null
              },
              {  
@@ -82,7 +82,7 @@
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"Hi Belinda- We're not planning to sell any tokens at this time. On the Cosmos address- we're currently working to get our blockchain set up (it's currently in a testing phase). Once it is live we will provide those instructions. More about the blockchain testing progress here: blog.althea.net/althea-test-chain-olympics",
+                "message":"Hi Belinda- We're not planning to sell any tokens at this time. On the Cosmos address- we're currently working to get our blockchain set up.",
                 "replyList":null
              },
              {  
@@ -94,22 +94,22 @@
        },
        {  
           "commenter":"Ciprian Matrache",
-          "message":"Hi. Internet services (21mbs- 100mbs) in Romania using mostly fiber in cities, starts from 6 eur up to 15 eur/month. Do you think Althea is a competitive solution in this case for mass market or only for a specific kind of region where is lack of solutions from big companies. I am interested in building this project in Romania.",
+          "message":"Hi. Internet services (21mbs- 100mbs) in Romania using mostly fiber in cities, starts from 6 eur up to 15 eur/month.",
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@ciprian-matrache-1 It depends on health of the local retail internet market, since internet access for an Althea network is bought from the same tier 1 carriers as supply internet access to regular ISPs. In many places, it is easy to provide cheaper access to consumers since regular ISPs are doing such a bad job. 6-15eur would not be a lot in the US, but perhaps in Romania it would be possible to provide access even more cheaply. Please submit a proposal to start a network and we can research it more.",
+                "message":"@ciprian-matrache-1 It depends on health of the local retail internet market, since internet access for an Althea network.",
                 "replyList":null
              }
           ]
        },
        {  
           "commenter":"Jason Sutter",
-          "message":"Since the software is open source - will it be possible for someone to add some code to take advantage of users by using an automatic price exploration algorithm to maximize a node's profit? Are there any built in protections for this or is it considered to be a fair practice?",
+          "message":"Since the software is open source - will it be possible for someone to add some code to take advantage of users by using an automatic price exploration algorithm?",
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"Absolutely! We plan to have a well defined plug-in point for pricing plugins. Our first pricing plugin is just hitting a server to get a sane price. This is great to keep service consistent for customers in this early testing phase, but obviously there is a huge scope for automated pricing plugins that cooperate and compete to provide better, cheaper service to subscribers.",
+                "message":"Absolutely! We plan to have a well defined plug-in point for pricing plugins. Our first pricing plugin is just hitting a server to get a sane price.",
                 "replyList":null
              }
           ]
@@ -123,33 +123,33 @@
        },
        {  
           "commenter":"Vicki Zyznik",
-          "message":"I have done the quiz. I am thinking about doing a plan. However I am in Australia. In my area you can pay AUD60 a month for a good internet connection. Is it worthwhile to have a plan in my area?",
+          "message":"I have done the quiz. I am thinking about doing a plan. However I am in Australia. In my area you can pay AUD60 a month for a good internet connection.",
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@vicki-zyznik Depends on how good it is. In one of our networks in Oregon, USA, people are paying 20-50 USD for speeds of around 80mbps. This is much faster than the other available options in that area. Your best bet is just to submit a proposal and then we will be able to guide you further.",
+                "message":"@vicki-zyznik Depends on how good it is. In one of our networks in Oregon, USA, people are paying 20-50 USD for speeds of around 80mbps.",
                 "replyList":null
              },
              {  
                 "commenter":"Vicki Zyznik",
-                "message":"@jehan-tremback Will put a proposal together, i am a CPA. I was a financial controller for many years. I am very confident in finance and any of those area. However with technology it is more my husband's field, he is a electrical engineer. He busy with his schedule. However I will try my best to get myself up in speed with the whole idea and see how it work out.",
+                "message":"@jehan-tremback Will put a proposal together, i am a CPA. I was a financial controller for many years. I am very confident in finance and any of those area.",
                 "replyList":null
              },
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@vicki-zyznik Thanks! We find that it's best when organizers in an area form a team, with at least one person who is good at planning/coordinating and people, and one person who has a reasonable understanding of the tech. Each organizer on the team can apply individually for the airdrop as well.",
+                "message":"@vicki-zyznik Thanks! We find that it's best when organizers in an area form a team, with at least one person who is good at planning/coordinating and people.",
                 "replyList":null
              },
              {  
                 "commenter":"Vicki Zyznik",
-                "message":"@jehan-tremback Thank you for the suggestion. My husband is a good candidate for the technical side of thing. I see what I can do. I do know a fair bit of the technical side because of my husband. Just like he knows a fair bit of finance and our investment because of me.",
+                "message":"@jehan-tremback Thank you for the suggestion. My husband is a good candidate for the technical side of thing. I see what I can do.",
                 "replyList":null
              }
           ]
        },
        {  
           "commenter":"Justin Kilpatrick",
-          "message":"> I'm currently looking through the videos on Republic, and it was\nmentioned that Althea would address the need for anonymity that is\ntypically met with the use of a VPN service. If this is indeed to be the\ncase, I am curious what the logging policy is for an Althea exit node.\nHow would an exit node operator respond to an allegation of unlawful\nactivity coming from their servers?\n\nalthea.net/traffic-transparency\n\nWe discuss our traffic management and privacy policies here. We do not collect any traffic logs beyond quantity for billing.\n\nWe will do the best we can within the bounds of US law to protect the privacy of our users.\n\nUsers are fee to select an exit of their choice, operated by whomever they chose. We work to provide a solid default exit option but it may not meet the needs of some enthusiasts.",
+          "message":"> I'm currently looking through the videos on Republic, and it was\nmentioned that Althea would address the need for anonymity.",
           "replyList":[  
  
           ]
@@ -163,7 +163,7 @@
        },
        {  
           "commenter":"ANTONIO RULLO",
-          "message":"I passed the first quiz. the others were overly time consuming for the answers.\nI've done my share of Professional learning and it wasn't worth it.\nHOW DO I BUY IN?",
+          "message":"I passed the first quiz. the others were overly time consuming for the answers.\nI've done my share of Professional learning and it wasn't worth it.",
           "replyList":[  
  
           ]
@@ -197,7 +197,7 @@
           "replyList":[  
              {  
                 "commenter":"Deborah Simpier",
-                "message":"@cameron-roe How to make a proposal should be explained in the video. After you make a proposal, we will reach out and help you plan and start your network, which is a bit like starting an ISP.",
+                "message":"@cameron-roe How to make a proposal should be explained in the video. After you make a proposal, we will reach out and help you plan and start your network.",
                 "replyList":null
              }
           ]
@@ -208,7 +208,7 @@
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@john-sargent Great question. The validators will process transactions on the Althea blockchain to allow routers to pay each other. But token holders ultimately control the blockchain by delegating their authority to the validators. \"Slashing\" 5% of the staked tokens if a validator you have delegated to misbehaves is a way of keeping everybody honest. We didn't invent this, it's been in intensive development for years as people search for an environmentally friendly alternative to proof of work. Here's a friendly explainer: blog.chorus.one/pos-ecosystem-101",
+                "message":"@john-sargent Great question. The validators will process transactions on the Althea blockchain to allow routers to pay each other.",
                 "replyList":null
              }
           ]
@@ -219,7 +219,7 @@
           "replyList":[  
              {  
                 "commenter":"Jehan Tremback",
-                "message":"@dominator-dominator This granting program is primarily intended to get people up to speed to be able to start a network in their community. The videos have a lot of information because a successful network organizer needs to know this stuff.",
+                "message":"@dominator-dominator This granting program is primarily intended to get people up to speed to be able to start a network in their community.",
                 "replyList":null
              }
           ]
