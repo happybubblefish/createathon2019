@@ -98,7 +98,7 @@
          "replyList":[  
             {  
                "commenter":"Jehan Tremback",
-               "message":"@ciprian-matrache-1 It depends on health of the local retail internet market, since internet access for an Althea network is bought from the same tier 1 carriers as supply internet access to regular ISPs. In many places, it is easy to provide cheaper access to consumers since regular ISPs are doing such a bad job. 6-15eur would not be a lot in the US, but perhaps in Romania it would be possible to provide access even more cheaply. Please submit a proposal to start a network and we can research it more.",
+               "message":"@ciprian-matrache-1 It depends on health of the local retail internet market, since internet access for an Althea network is bought from the same tier 1 carriers as supply internet access to regular ISPs. 6-15eur would not be a lot in the US, but perhaps in Romania it would be possible to provide access even more cheaply. Please submit a proposal to start a network and we can research it more.",
                "replyList":null
             }
          ]
@@ -149,7 +149,7 @@
       },
       {  
          "commenter":"Justin Kilpatrick",
-         "message":"> I'm currently looking through the videos on Republic, and it was\nmentioned that Althea would address the need for anonymity that is\ntypically met with the use of a VPN service. If this is indeed to be the\ncase, I am curious what the logging policy is for an Althea exit node.\nHow would an exit node operator respond to an allegation of unlawful\nactivity coming from their servers?\n\nalthea.net/traffic-transparency\n\nWe discuss our traffic management and privacy policies here. We do not collect any traffic logs beyond quantity for billing.\n\nWe will do the best we can within the bounds of US law to protect the privacy of our users.\n\nUsers are fee to select an exit of their choice, operated by whomever they chose. We work to provide a solid default exit option but it may not meet the needs of some enthusiasts.",
+         "message":"> I'm currently looking through the videos on Republic, and it was\nmentioned that Althea would address the need for anonymity that is\ntypically met with the use of a VPN service. If this is indeed to be the\ncase.We will do the best we can within the bounds of US law to protect the privacy of our users.\n\nUsers are fee to select an exit of their choice, operated by whomever they chose. We work to provide a solid default exit option but it may not meet the needs of some enthusiasts.",
          "replyList":[  
 
          ]
@@ -170,7 +170,7 @@
       },
       {  
          "commenter":"Bastiaan Pleijzier",
-         "message":"Get rid of the quizzes, after done 2.......................I no longer bother!",
+         "message":"Get rid of the quizzes",
          "replyList":[  
 
          ]
@@ -208,7 +208,7 @@
          "replyList":[  
             {  
                "commenter":"Jehan Tremback",
-               "message":"@john-sargent Great question. The validators will process transactions on the Althea blockchain to allow routers to pay each other. But token holders ultimately control the blockchain by delegating their authority to the validators. \"Slashing\" 5% of the staked tokens if a validator you have delegated to misbehaves is a way of keeping everybody honest. We didn't invent this, it's been in intensive development for years as people search for an environmentally friendly alternative to proof of work. Here's a friendly explainer: blog.chorus.one/pos-ecosystem-101",
+               "message":"@john-sargent Great question. The validators will process transactions on the Althea blockchain to allow routers to pay each other. \"Slashing\" 5% of the staked tokens if a validator you have delegated to misbehaves is a way of keeping everybody honest. We didn't invent this, it's been in intensive development for years as people search for an environmentally friendly alternative to proof of work. Here's a friendly explainer: blog.chorus.one/pos-ecosystem-101",
                "replyList":null
             }
          ]
@@ -226,7 +226,7 @@
       },
       {  
          "commenter":"Jehan Tremback",
-         "message":"A question asked off-site was \"Hi, the only way to invest althea is joining airdrop? Any way to purchase token?\"\n\nThe answer is that at this time, no.",
+         "message":"A question asked off-site was \"Hi, the only way to invest althea is joining airdrop? Any way to purchase token?",
          "replyList":[  
 
          ]
@@ -248,7 +248,7 @@
          "replyList":[  
             {  
                "commenter":"Jehan Tremback",
-               "message":"@fruma-kane Thanks for asking! You can start by watching all the videos, and move on to making a proposal for a network in your area. This process will help you learn a lot about whether Althea will work in your area.",
+               "message":"@fruma-kane Thanks for asking! You can start by watching all the videos. This process will help you learn a lot about whether Althea will work in your area.",
                "replyList":null
             }
          ]
